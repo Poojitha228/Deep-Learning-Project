@@ -1,5 +1,5 @@
 # Deep-Learning-Project
-Stock market trend prediction by using LSTM sequence model with 94% accuracy
+Stock market trend prediction by using LSTM sequence model with 94% accuracy and technical indicators.
 
 ##Project Overview
 
